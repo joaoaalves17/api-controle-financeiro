@@ -60,7 +60,7 @@ package.json
 ### 2. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/joaoaalves17/api-controle-financeiro.git
 cd api-controle-financeiro
 ```
 
